@@ -3,10 +3,10 @@
 ## Features of the project:
 
 **Student details** :
-Add, Delete, Update and View student details
 Student details contains:
 1) Name, Mail Id, Phone number, Gender and Roll number
 2) Standard: 1 to 10
+3) Add, Delete, Update and View student details
 
 **Student Marks** :
 1) An option to choose type of Exam: First Unit Test, Second Unit Test, Third Unit test, Fourth Unit Test, First Semester, Second Semester. (Unit Tests are out of 20 marks and semesters are out of 100marks)
